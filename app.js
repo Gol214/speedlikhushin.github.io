@@ -1,6 +1,6 @@
 if ("serviceWorker" in navigator) {
  window.addEventListener ("load", function() {
-  navigator.serviceWorker.register("icons/sw.js") .then(
+  navigator.serviceWorker.register("icon/sw.js") .then(
     function (registration) {
 
 // Registration was successful
