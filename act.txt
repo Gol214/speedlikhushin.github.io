@@ -1,0 +1,16 @@
+ <section id="deals" class="deals">
+          <IMG SRC="1234.JPG" WIDTH=300 HEIGHT=200 ALIGN="left"> 
+<br><br><br>SUBARU IMPREZA 2006<br> 
+   1,5 л/105 л.с./бензин<br> 
+   1 500 000 <br> 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
+<IMG SRC="1235.JPG" WIDTH=300 HEIGHT=200 ALIGN="left" > 
+<br><br>PORSCHE CAYMAN 2020<br> 
+  2,0 л/300 л.с./бензин<br> 
+  7 500 000 <br> 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>   
+<IMG SRC="133.JPG" WIDTH=300 HEIGHT=200 ALIGN="left" > 
+<br><br>LINKOLN CONTINENTAL 1977<br> 
+  7,5 л/365 л.с./бензин<br> 
+  6 000 000 <br> 
+<br><br> 
